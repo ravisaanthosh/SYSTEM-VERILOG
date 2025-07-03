@@ -6,5 +6,5 @@ module str_1;
 endmodule
 
 
-expected output_str_1
+result output_str_1
 KERNEL: output A= 15
