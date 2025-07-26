@@ -1,4 +1,4 @@
-module static_casting_int_to_long_int;
+module dynamic_casting_int_to_long_int;
   int int_data;
   longint longint_data;
   initial begin
