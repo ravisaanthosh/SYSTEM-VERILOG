@@ -1,6 +1,5 @@
 class factory;
-  static logic[7:0] ford;  //reg logic not worked!!!!!!!!!!!!
-  
+  static logic[7:0] ford;  //reg logic not worked!!!!!!!!!!!! default value both are X  
   static function void company();
     ford++;
   endfunction
