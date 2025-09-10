@@ -10,7 +10,7 @@ class samsung extends nokia;
   string nokia_c1;
   string nokia_c2;
   function preview();
-    $display("CHILD_CLASS your's samsung brand from extends nokia",nokia_c1,nokia_c2);
+    $display("CHILD_CLASS your's samsung brand from extends nokia=%0s,=%0s",nokia_c1,nokia_c2);
   endfunction
 endclass
 
@@ -33,8 +33,8 @@ module tb;
 endmodule
 
 
-CHILD_CLASS your's samsung brand from extends nokiaHIT_MODELFLOP_MODEL
-CHILD_CLASS your's samsung brand from extends nokiaHIT_MODELFLOP_MODEL
+CHILD_CLASS your's samsung brand from extends nokia HIT_MODEL,FLOP_MODEL
+CHILD_CLASS your's samsung brand from extends nokia HIT_MODEL,FLOP_MODEL
            V C S   S i m u l a t i o n   R e p o r t 
 Time: 0 ns
 CPU Time:      0.540 seconds;       Data structure size:   0.0Mb
