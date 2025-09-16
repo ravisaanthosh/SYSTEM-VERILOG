@@ -89,7 +89,7 @@ endmodule
 
 PARENT:name of the factory model=LINE_1,=LINE_2
 CHILD_A:name of the plant_a model=SANTRO,=I_20
-CHILD_C:name of the plant_c model=VERANA,=AURA
+CHILD_B:name of the plant_c model=VERANA,=AURA
 CHILD_C:name of the plant_c model=CREATA,=VENUE
            V C S   S i m u l a t i o n   R e p o r t 
 Time: 0 ns
