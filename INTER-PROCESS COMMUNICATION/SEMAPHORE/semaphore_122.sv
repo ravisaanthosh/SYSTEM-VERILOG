@@ -4,7 +4,7 @@ module semaphore_122;
     sem.get(4);
     $display("waiting for conformation to red data");
     
-    sem.put(4);
+    sem.put(4);  //here we can add aditional keys return  semaphore .....n keys for next process
     $display("thanks for conformation data successfuly read ");
   end
   initial begin
