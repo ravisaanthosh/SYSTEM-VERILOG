@@ -1,4 +1,4 @@
-module timing_releationship;
+module logical_releationship;
   bit clk;
   bit a,b;
   
