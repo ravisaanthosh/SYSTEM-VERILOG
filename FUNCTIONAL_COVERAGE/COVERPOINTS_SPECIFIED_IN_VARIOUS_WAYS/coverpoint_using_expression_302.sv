@@ -1,4 +1,4 @@
-class cross_coverage_301;
+class cross_coverage_302;
   randc bit [3:0]cycle_1;
   randc bit [8:0]cycle_2;
   covergroup cg;
