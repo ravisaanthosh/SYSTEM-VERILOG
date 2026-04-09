@@ -13,7 +13,7 @@ class cross_coverage_302;
     endfunction
 endclass
   module tb;
-    cross_coverage_300 cs;
+    cross_coverage_302 cs;
     
     initial begin
       cs=new();
