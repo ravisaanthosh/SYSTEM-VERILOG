@@ -6,7 +6,15 @@ class set_of_transition_bins;
  
   covergroup crg;
     e1:coverpoint a{bins value_1 =(0,1=>2,3);} 
+ //0 → 2 pass
+// 0 → 3 pass
+// 1 → 2 pass
+// 1 → 3 pass
     e2:coverpoint b{bins value_2 =(3,4=>5,6);}
+// 3 → 5 pass
+// 3 → 6 pass
+// 4 → 5 pass
+// 4 → 6 pass
   endgroup
   
     function new();
