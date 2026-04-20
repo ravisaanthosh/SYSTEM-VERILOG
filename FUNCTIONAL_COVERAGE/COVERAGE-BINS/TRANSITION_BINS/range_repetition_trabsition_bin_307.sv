@@ -1,3 +1,5 @@
+these feature supports module blocks only
+
 class repetition_transition_bins;
   rand bit [2:0]a;
   rand bit [2:0]b;
